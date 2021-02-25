@@ -9,7 +9,7 @@ import javax.swing.JTextField;
  */
 /**
  *
- * @author sala305b
+ * @author Ronny Peracio
  */
 public class Numero {
 
@@ -71,8 +71,4 @@ public class Numero {
     
 }
 
-          
-//    Double somar(JTextField nro1, JTextField nro2) {
-//        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-//    }
 
